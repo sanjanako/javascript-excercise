@@ -1,0 +1,16 @@
+body {
+    background: rgb(224,205,237);
+    background: linear-gradient(163deg, rgba(224,205,237,1) 0%, rgba(228,158,158,1) 50%, rgba(238,217,187,1) 100%); 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 3px;
+    text-align: center;
+    color: #3c234e;
+}
+
+h1 {
+    color: #3c234e;
+    text-align: center;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+    border-bottom: solid 2px #3c234e;
+}
